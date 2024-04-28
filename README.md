@@ -1,5 +1,3 @@
-# typescript-online-classes
-
 # Introduction to TypeScript
 
 ## What is TypeScript?
